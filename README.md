@@ -68,6 +68,9 @@ Link | Source | Comments |
 Link | Source | Comments |
 --- | --- | --- |
 [A Chat with Andrew Ng on MLOps: From Model-centric to Data-centric AI](https://youtu.be/06-AZXmwHjo) | YouTube |  Andrew Ng |
+[A Practical Guide to MLOps](https://www.datacamp.com/resources/webinars/practical-guide-to-mlops) | DataCamp | Noah Gift |
+[MLOps Masterclass: Theory to DevOps to Cloud-native to AutoML](https://youtu.be/DMJaKDOr0NI) | YouTube | Noah Gift |
+[MLOps - Machine Learning Operations](https://www.youtube.com/playlist?list=PL3N9eeOlCrP5a6OA473MA4KnOXWnUyV_J) | YouTube | 16 videos |
   
 </p>
 </details>
